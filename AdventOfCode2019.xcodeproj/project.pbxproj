@@ -16,6 +16,8 @@
 		8C1A53492393D31B00A919DB /* Day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1A53482393D31B00A919DB /* Day1.swift */; };
 		8C1A534C2393D3A600A919DB /* Day1.input in Resources */ = {isa = PBXBuildFile; fileRef = 8C1A534B2393D3A600A919DB /* Day1.input */; };
 		8C1A534E2393DACB00A919DB /* GenericDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1A534D2393DACB00A919DB /* GenericDay.swift */; };
+		8C9DF32D2395838000DED036 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9DF32C2395838000DED036 /* Day2.swift */; };
+		8C9DF32F2395838D00DED036 /* Day2.input in Resources */ = {isa = PBXBuildFile; fileRef = 8C9DF32E2395838D00DED036 /* Day2.input */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		8C1A53482393D31B00A919DB /* Day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
 		8C1A534B2393D3A600A919DB /* Day1.input */ = {isa = PBXFileReference; lastKnownFileType = text; path = Day1.input; sourceTree = "<group>"; };
 		8C1A534D2393DACB00A919DB /* GenericDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericDay.swift; sourceTree = "<group>"; };
+		8C9DF32C2395838000DED036 /* Day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day2.swift; sourceTree = "<group>"; };
+		8C9DF32E2395838D00DED036 /* Day2.input */ = {isa = PBXFileReference; lastKnownFileType = text; path = Day2.input; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,7 @@
 			children = (
 				8C1A534D2393DACB00A919DB /* GenericDay.swift */,
 				8C1A53482393D31B00A919DB /* Day1.swift */,
+				8C9DF32C2395838000DED036 /* Day2.swift */,
 			);
 			path = Days;
 			sourceTree = "<group>";
@@ -88,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				8C1A534B2393D3A600A919DB /* Day1.input */,
+				8C9DF32E2395838D00DED036 /* Day2.input */,
 			);
 			path = Inputs;
 			sourceTree = "<group>";
@@ -151,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C1A53402393D2D900A919DB /* LaunchScreen.storyboard in Resources */,
+				8C9DF32F2395838D00DED036 /* Day2.input in Resources */,
 				8C1A533D2393D2D900A919DB /* Assets.xcassets in Resources */,
 				8C1A533B2393D2D200A919DB /* Main.storyboard in Resources */,
 				8C1A534C2393D3A600A919DB /* Day1.input in Resources */,
@@ -165,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C1A53492393D31B00A919DB /* Day1.swift in Sources */,
+				8C9DF32D2395838000DED036 /* Day2.swift in Sources */,
 				8C1A53382393D2D200A919DB /* ViewController.swift in Sources */,
 				8C1A534E2393DACB00A919DB /* GenericDay.swift in Sources */,
 				8C1A53342393D2D200A919DB /* AppDelegate.swift in Sources */,

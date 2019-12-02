@@ -12,12 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let adventDay = Day1()
+        let adventDay = Day2()
         let input = readInput(for: adventDay.dayInput)
         let firstResult = adventDay.solveFirstPart(with: input)
-        print("first part: \(firstResult)")
-        let secondResult = adventDay.solveSecondPart(with: input)
-        print("second part: \(secondResult)")
     }
 
     
